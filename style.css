@@ -87,7 +87,6 @@ button {
     border: 2px solid hsl(0, 0%, 95%);
 }
 
-
 @media (min-width: 375px){
     #main{
         grid-template-columns: 350px;
